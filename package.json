@@ -47,7 +47,7 @@
     "get-image-colors": "^1.8.1",
     "github-url-to-object": "^4.0.2",
     "human-interval": "^0.1.6",
-    "husky": "^4.2.3",
+    "husky": "^4.3.0",
     "image-size": "^0.5.0",
     "imagemin": "^6.1.0",
     "imagemin-pngquant": "^8.0.0",
@@ -56,7 +56,7 @@
     "is-url": "^1.2.2",
     "jimp": "^0.3.5",
     "js-yaml": "^3.13.1",
-    "lint-staged": "^10.0.9",
+    "lint-staged": "^10.2.12",
     "make-color-accessible": "^1.2.0",
     "mkdirp": "^0.5.1",
     "mocha": "^5.2.0",
@@ -70,7 +70,7 @@
     "sharp": "^0.23.0",
     "sinon": "^7.2.2",
     "slugg": "^1.1.0",
-    "yaml": "^1.9.2"
+    "yaml": "^1.10.0"
   },
   "engines": {
     "node": ">=8"
